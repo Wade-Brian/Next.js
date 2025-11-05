@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Administrator/Desktop/nextjs-portfolio-v2/app/globals.css"],"sourcesContent":["body {\n  font-family: Arial, sans-serif;\n  margin: 0;\n  background-color: #fafafa;\n  color: #333;\n}\n\nmain {\n  padding: 20px;\n  min-height: 80vh;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA","debugId":null}}]
+}

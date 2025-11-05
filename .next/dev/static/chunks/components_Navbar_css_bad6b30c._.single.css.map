@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/Navbar.css"],"sourcesContent":[".navbar {\r\n  background-color: #222;\r\n  color: white;\r\n  display: flex;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  padding: 1rem 2rem;\r\n}\r\n\r\n.nav-links a {\r\n  color: white;\r\n  margin: 0 1rem;\r\n  text-decoration: none;\r\n}\r\n\r\n.nav-links a:hover {\r\n  text-decoration: underline;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;;AAMA"}}]
+}

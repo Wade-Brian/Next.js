@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Administrator/Desktop/nextjs-portfolio-v2/components/Navbar.css"],"sourcesContent":[".navbar {\r\n  background-color: #222;\r\n  color: white;\r\n  display: flex;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  padding: 1rem 2rem;\r\n}\r\n\r\n.nav-links a {\r\n  color: white;\r\n  margin: 0 1rem;\r\n  text-decoration: none;\r\n}\r\n\r\n.nav-links a:hover {\r\n  text-decoration: underline;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;;AAMA","debugId":null}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Administrator/Desktop/nextjs-portfolio-v2/components/Footer.css"],"sourcesContent":[".footer {\r\n    background-color: #222;\r\n    color: white;\r\n    text-align: center;\r\n    padding: 1rem;\r\n  }\r\n  "],"names":[],"mappings":"AAAA","debugId":null}},
+    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Administrator/Desktop/nextjs-portfolio-v2/components/ProjectCard.css"],"sourcesContent":[".card {\r\n  background: white;\r\n  border: 1px solid #ddd;\r\n  padding: 1rem;\r\n  text-align: center;\r\n  border-radius: 10px;\r\n  transition: 0.3s;\r\n}\r\n\r\n.card:hover {\r\n  transform: translateY(-5px);\r\n  box-shadow: 0 4px 10px rgba(0,0,0,0.1);\r\n}\r\n\r\n.card-image {\r\n  width: 100%;\r\n  height: 180px;\r\n  object-fit: cover;\r\n  border-radius: 8px;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;AAKA","debugId":null}}]
+}

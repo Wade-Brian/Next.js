@@ -1,0 +1,21 @@
+/* [project]/components/Navbar.css [app-client] (css) */
+.navbar {
+  color: #fff;
+  background-color: #222;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  display: flex;
+}
+
+.nav-links a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=components_Navbar_css_bad6b30c._.single.css.map*/

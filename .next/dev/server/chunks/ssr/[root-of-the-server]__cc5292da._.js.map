@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Administrator/Desktop/nextjs-portfolio-v2/components/Navbar.js"],"sourcesContent":["\"use client\";\r\nimport Link from \"next/link\";\r\nimport \"./Navbar.css\";\r\n\r\nexport default function Navbar() {\r\n  return (\r\n    <nav className=\"navbar\">\r\n      <h2 className=\"logo\">MyPortfolio</h2>\r\n      <div className=\"nav-links\">\r\n        <Link href=\"/\">Home</Link>\r\n        <Link href=\"/about\">About</Link>\r\n        <Link href=\"/projects\">Projects</Link>\r\n        <Link href=\"/contact\">Contact</Link>\r\n      </div>\r\n    </nav>\r\n  );\r\n}\r\n\r\n"],"names":[],"mappings":";;;;;AACA;AADA;;;;AAIe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAG,WAAU;0BAAO;;;;;;0BACrB,8OAAC;gBAAI,WAAU;;kCACb,8OAAC,uKAAI;wBAAC,MAAK;kCAAI;;;;;;kCACf,8OAAC,uKAAI;wBAAC,MAAK;kCAAS;;;;;;kCACpB,8OAAC,uKAAI;wBAAC,MAAK;kCAAY;;;;;;kCACvB,8OAAC,uKAAI;wBAAC,MAAK;kCAAW;;;;;;;;;;;;;;;;;;AAI9B","debugId":null}}]
+}

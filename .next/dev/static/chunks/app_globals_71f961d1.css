@@ -1,0 +1,14 @@
+/* [project]/app/globals.css [app-client] (css) */
+body {
+  color: #333;
+  background-color: #fafafa;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  min-height: 80vh;
+  padding: 20px;
+}
+
+/*# sourceMappingURL=app_globals_71f961d1.css.map*/
